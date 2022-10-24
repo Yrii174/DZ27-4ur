@@ -1,0 +1,15 @@
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.csproj.AssemblyReference.cache
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.AssemblyInfoInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.AssemblyInfo.cs
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.csproj.CoreCompileInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\bin\Debug\net6.0\DZ27-4ur.exe
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\bin\Debug\net6.0\DZ27-4ur.deps.json
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\bin\Debug\net6.0\DZ27-4ur.runtimeconfig.json
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\bin\Debug\net6.0\DZ27-4ur.dll
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\bin\Debug\net6.0\DZ27-4ur.pdb
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.dll
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\refint\DZ27-4ur.dll
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.pdb
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\DZ27-4ur.genruntimeconfig.cache
+C:\Users\Yran\Seminar3_S#\DZ27-4ur\obj\Debug\net6.0\ref\DZ27-4ur.dll
